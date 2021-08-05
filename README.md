@@ -1,1 +1,2 @@
-updating soon kub <3
+# Spam Promotion Classification with Text and Image
+This repository was originally used as a take-home assignment provided by one company that I applied for their Data Scientist job position. The main goal of this assignment is to classify a spam promotion from many promotions with text and image data. I used VGG-16 pre-trained model for image classification and Bi-LSTM for text classification then combined both features for the final result in the form of spam or not.
